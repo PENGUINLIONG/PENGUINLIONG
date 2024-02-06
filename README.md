@@ -7,3 +7,5 @@ I'm looking for PhD position in some hybrid zone among deep learning, graphics a
 ```
 penguinliong [at] gmail [dot] com
 ```
+
+My resume is available [here](https://github.com/PENGUINLIONG/PENGUINLIONG/blob/master/Rendong-Liang.Resume.2023-09-29.pdf).
